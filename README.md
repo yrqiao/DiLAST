@@ -1,6 +1,6 @@
-# VALERANT
+# DiLAST
 
-Project page for **VALERANT**.
+Project page for **DiLAST**.
 
 Based on the [nerfies](https://github.com/nerfies/nerfies.github.io) project page template
 (CC BY-SA 4.0).
